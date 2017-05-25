@@ -1,4 +1,4 @@
-package com.designpattern.cjf.designpattern.singleton;
+package com.cjf.designpattern.singleton;
 
 /**
  * Created by chenjifang on 2017/3/31.
